@@ -11,3 +11,6 @@ Sigo haciendo cambios en rama "característica 2"
 
 
 commit 1 fastforward
+
+
+commit 2 fastforward
