@@ -3,3 +3,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo neque, auctor
 Maecenas facilisis sapien in finibus pulvinar. Donec eu feugiat sem. Vestibulum nunc erat, auctor eu dictum sed, venenatis quis mi. In interdum pellentesque ipsum ac tempus. Integer ut tortor lobortis, suscipit ipsum at, luctus justo. Nulla facilisi. Ut eu justo rutrum, finibus sem a, porttitor tellus. Nam eget tellus et lacus ultricies hendrerit. Etiam scelerisque nibh at iaculis lobortis. Etiam a ipsum pellentesque, finibus lacus nec, tincidunt felis.Maecenas facilisis sapien in finibus pulvinar. Donec eu feugiat sem. Vestibulum nunc erat, auctor eu dictum sed, venenatis quis mi. In interdum pellentesque ipsum ac tempus. Integer ut tortor lobortis, suscipit ipsum at, luctus justo. Nulla facilisi. Ut eu justo rutrum, finibus sem a, porttitor tellus. Nam eget tellus et lacus ultricies hendrerit. Etiam scelerisque nibh at iaculis lobortis. Etiam a ipsum pellentesque, finibus lacus nec, tincidunt felis.
 
 Aplico el "hotfix"
+
+Aplico el "hotfix 2" 
+
+Cambio que se me ha olvidado
