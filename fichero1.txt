@@ -4,3 +4,5 @@ Este es el fichero 1
 Estoy haciendo cambios a medias que no quiero perder
 
 Cambios 2
+
+característica 2
