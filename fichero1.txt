@@ -8,3 +8,6 @@ Cambios 2
 característica 2
 
 Sigo haciendo cambios en rama "característica 2"
+
+
+commit 1 fastforward
