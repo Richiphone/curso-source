@@ -6,3 +6,5 @@ Estoy haciendo cambios a medias que no quiero perder
 Cambios 2
 
 característica 2
+
+Sigo haciendo cambios en rama "característica 2"
