@@ -17,3 +17,6 @@ commit 2 fastforward
 
 
 Característica 3
+
+
+Característica 3/2
